@@ -1,1 +1,1 @@
-este proyecto es una prueba de como crear un repositorio y crearlo desde github a mi computadora
+Este proyecto es una prueba de como crear un repositorio y como crearlo desde github a mi Pc portatil
